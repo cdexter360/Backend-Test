@@ -1,0 +1,6 @@
+C:\Users\Developer\Documents\Git Repositories\Backend-Test\Backend-Test Console\bin\Debug\Backend-Test Console.exe.config
+C:\Users\Developer\Documents\Git Repositories\Backend-Test\Backend-Test Console\bin\Debug\Backend-Test Console.exe
+C:\Users\Developer\Documents\Git Repositories\Backend-Test\Backend-Test Console\bin\Debug\Backend-Test Console.pdb
+C:\Users\Developer\Documents\Git Repositories\Backend-Test\Backend-Test Console\obj\Debug\Backend-Test Console.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Git Repositories\Backend-Test\Backend-Test Console\obj\Debug\Backend-Test Console.exe
+C:\Users\Developer\Documents\Git Repositories\Backend-Test\Backend-Test Console\obj\Debug\Backend-Test Console.pdb

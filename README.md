@@ -1,46 +1,21 @@
-# ONTRAPORT Backend Skills Test
+###########################################################
 
-Hi, Thanks for checking us out
+			README.MD								
+		
+###########################################################
 
-If you're interested in applying for the **Backend Engineer** team a great first step is to complete a brief test to allow us to assess your skills. You will find our Backend Engineer test below. Any language is fine, please note there are **two** questions:
+USAGE
+Backend-Test.exe -# {json}
 
-1) Write a function that accepts a multi-dimensional container of any size and converts it into a one dimensional associative array whose keys are strings representing their value's path in the original container.
+PARAMETERS
+# is the Question number. Valid values are 1 and 2.
+{json} is a valid JSON string.
 
-E.G.
+EXAMPLES
+Backend-Test -1 {"one":{"two":3,"four":[5,6,7]},"eight":{"nine":{"ten":11}}}
+Backend-Test -2 {"one/two":3,"one/four/0":5,"one/four/1":6,"one/four/2":7,"eight/nine/ten":11}
 
-```
-{
-    'one':
-    {
-        'two': 3,
-        'four': [ 5,6,7]
-    },
-    'eight':
-    {
-        'nine':
-        {
-            'ten':11
-        }
-    }
-}
-```
-
-turns into:
-
-```
-{
-    'one/two':3,
-    'one/four/0':5,
-    'one/four/1':6,
-    'one/four/2':7,
-    'eight/nine/ten':11
-}
-```
-
-2) Now write a separate function to do the reverse.
-
-We want you to fork and then create a pull-reqest against this repository and we'll review it.
-
-Thanks and good luck!
-
-Ontraport Careers Team
+NOTES
+Windows Command Prompt strips quotes (") when forward slashes (/) are in the parameter. Instead use:
+Backend-Test -2 "{""one/two"":3,""one/four/0"":5,""one/four/1"":6,""one/four/2"":7,""eight/nine/ten"":11}" or
+Backend-Test -2 "{\"one/two\":3,\"one/four/0\":5,\"one/four/1\":6,\"one/four/2\":7,\"eight/nine/ten\":11}"

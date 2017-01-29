@@ -1,0 +1,8 @@
+C:\Users\Developer\Documents\Git Repositories\Backend-Test\Backend-Test Console\bin\Debug\Backend-Test.exe.config
+C:\Users\Developer\Documents\Git Repositories\Backend-Test\Backend-Test Console\bin\Debug\Backend-Test.exe
+C:\Users\Developer\Documents\Git Repositories\Backend-Test\Backend-Test Console\bin\Debug\Backend-Test.pdb
+C:\Users\Developer\Documents\Git Repositories\Backend-Test\Backend-Test Console\obj\Debug\Backend-Test.exe
+C:\Users\Developer\Documents\Git Repositories\Backend-Test\Backend-Test Console\obj\Debug\Backend-Test.pdb
+C:\Users\Developer\Documents\Git Repositories\Backend-Test\Backend-Test Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Developer\Documents\Git Repositories\Backend-Test\Backend-Test Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Developer\Documents\Git Repositories\Backend-Test\Backend-Test Console\obj\Debug\Backend-Test.csprojResolveAssemblyReference.cache
